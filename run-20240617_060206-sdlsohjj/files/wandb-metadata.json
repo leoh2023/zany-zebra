@@ -1,0 +1,44 @@
+{
+    "os": "Linux-6.5.0-1021-azure-x86_64-with-glibc2.31",
+    "python": "3.10.13",
+    "heartbeatAt": "2024-06-17T06:02:07.637556",
+    "startedAt": "2024-06-17T06:02:06.952132",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/workspaces/haikus-for-codespaces/test.py",
+    "codePathLocal": "haikus-for-codespaces/test.py",
+    "codePath": "haikus-for-codespaces/test.py",
+    "host": "codespaces-b6b6da",
+    "username": "codespace",
+    "executable": "/home/codespace/.python/current/bin/python3",
+    "cpu_count": 1,
+    "cpu_count_logical": 2,
+    "cpu_freq": {
+        "current": 3110.71,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3154.874,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3066.546,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 31.32598876953125,
+            "used": 11.64938735961914
+        }
+    },
+    "memory": {
+        "total": 7.74371337890625
+    }
+}
